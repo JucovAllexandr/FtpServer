@@ -1,0 +1,4 @@
+
+public enum Commands {
+	USER, QUIT, SYST, FEAT, PWD, TYPE, PASV, CWD, LIST, PORT, MDTM, SIZE,RETR,STOR
+}
